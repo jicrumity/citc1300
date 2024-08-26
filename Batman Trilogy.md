@@ -6,8 +6,7 @@
     <style>
       body { 
         background-color: white; 
-
-      }  
+        }  
       img{
         display: block;
         margin: 20px auto;
@@ -16,6 +15,7 @@
     </style>
 </head>
 <hr>
+
 
 <body>
     <h1> Batman Begins</h1>
