@@ -36,7 +36,7 @@ nav {
     border-radius: 10px ;
 }
 main{
-    display: flex;
+    display: center;
 }
 
 nav ul {
